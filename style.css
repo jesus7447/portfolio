@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    font-style: arial;
+    background-image: url('../Portfolio/back_ground.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+a {
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
+
+footer {
+    background-color: aqua;
+    color: black;
+}
+
+img {
+    border-style: solid;
+}
